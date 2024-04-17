@@ -8,7 +8,7 @@
 
 Успехов!
   
-[Актуальное задание для самостоятельной работы](https://docs.yandex.ru/docs/view?url=ya-disk%3A%2F%2F%2Fdisk%2FLogic2-2023%2Ftask9.pdf&name=task9.pdf&uid=1130000047699803&nosw=1)
+[Актуальное задание для самостоятельной работы](https://docs.yandex.ru/docs/view?url=ya-disk%3A%2F%2F%2Fdisk%2FLogic2-2023%2Ftask10.pdf&name=task10.pdf&uid=1130000047699803&nosw=1)
 
 [Таблица с результатами](https://docs.google.com/spreadsheets/d/1nO0-SeE6pCi0vht6oQ3mGaXVSdi1tb7ycBu6DyuDTxI/edit#gid=0)
 
